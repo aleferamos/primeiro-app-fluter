@@ -1,6 +1,6 @@
 {
-    "name": "curso",
-    "short_name": "curso",
+    "name": "developer",
+    "short_name": "developer",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

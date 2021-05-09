@@ -5,14 +5,17 @@ void main() {
     MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('eu sou rico'),
+          title: const Text(
+            "i'm developer",
+            style: TextStyle(color: Colors.orange),
+          ),
           centerTitle: true,
-          backgroundColor: Colors.blue[900],
+          backgroundColor: Colors.blueGrey[900],
         ),
-        backgroundColor: Colors.grey[900],
+        backgroundColor: Colors.blueGrey[800],
         body: Center(
           child: Image(
-            image: AssetImage('lib/images/ruby.png'),
+            image: AssetImage('lib/images/background.png'),
           ),
         ),
       ),

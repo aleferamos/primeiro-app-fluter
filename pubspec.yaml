@@ -1,4 +1,4 @@
-name: curso
+name: developer
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -44,7 +44,7 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
-  # To add assets to your application, add an assets section, like this:
+   # To add assets to your application, add an assets section, like this:
   assets:
    - lib/images/
   #   - images/a_dot_ham.jpeg

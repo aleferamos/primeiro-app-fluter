@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(curso LANGUAGES CXX)
+project(developer LANGUAGES CXX)
 
-set(BINARY_NAME "curso")
+set(BINARY_NAME "developer")
 
 cmake_policy(SET CMP0063 NEW)
 
